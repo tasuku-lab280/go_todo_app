@@ -11,6 +11,8 @@
     "mikestead.dotenv",
     "esbenp.prettier-vscode",
     "vscode-icons-team.vscode-icons",
-    "mosapride.zenkaku"
+    "mosapride.zenkaku",
+    "be5invis.toml",
+    "ms-vscode.makefile-tools"
   ]
 }
