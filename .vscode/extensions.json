@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "MS-CEINTL.vscode-language-pack-ja",
+    "golang.go",
+    "766b.go-outliner",
+    "premparihar.gotestexplorer",
+    "eamodio.gitlens",
+    "seatonjiang.gitmoji-vscode",
+    "wmaurer.change-case",
+    "oderwat.indent-rainbow",
+    "mikestead.dotenv",
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "mosapride.zenkaku"
+  ]
+}
